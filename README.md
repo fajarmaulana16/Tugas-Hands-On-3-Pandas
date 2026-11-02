@@ -1,7 +1,9 @@
 # Tugas Hands-On 3: Pandas Lanjutan
 
 Nama: Fajar Maulana Hermawan
+
 NIM : 23552011327
+
 Mata Kuliah: Intelegensi Buatan
 
 
