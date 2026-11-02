@@ -1,10 +1,9 @@
 # Tugas Hands-On 3: Pandas Lanjutan
 
-Nama: Fajar Maulana
+Nama: Fajar Maulana Hermawan
+NIM : 23552011327
+Mata Kuliah: Intelegensi Buatan
 
-Mata Kuliah: Artificial Intelligence
-
-Tools: Google Colab dan Python
 
 ## Deskripsi
 Tugas ini membahas pengolahan data menggunakan Pandas,
